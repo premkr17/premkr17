@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Prem Kumar 👋
 
-<!--
-**premkr17/premkr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Strong Foundation in Data Structures & Algorithms
+- 💻 Interested in Python, C, and Web Development
+- 🚀 Building concepts and improving my coding skills
+- 📚 Always eager to learn new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- C
+- Python
+- Data Structures and Algorithms
+- Git & GitHub
+
+## 🎯 Goals for 2026
+- Master DSA
+- Strengthen Problem Solving Skills
+- Contribute to Open Source
+- Secure a Software Engineering Internship
+
+## 📫 Connect with Me
+- GitHub: https://github.com/premkr17
